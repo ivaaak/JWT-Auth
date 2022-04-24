@@ -1,4 +1,4 @@
-namespace BlazorJWT_Auth.Shared
+namespace BlazorJWT_Auth.Server.Data
 {
     public class URL
     {
